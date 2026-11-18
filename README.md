@@ -2,5 +2,3 @@
 my first repository.
 <br>
 author-rohanraj.
-<br>
-i am rohan raj studying in cupb
