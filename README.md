@@ -4,6 +4,5 @@ my first repository.
 author-rohanraj.
 <br>
 i am rohan raj i am studying in cupb
-<br>
-my friend is rahul
+
 
